@@ -1,1 +1,1 @@
-# AStarPathFindingVisualize
+# A* Path Finding Visualize
